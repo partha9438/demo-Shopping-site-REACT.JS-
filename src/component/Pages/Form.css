@@ -1,0 +1,42 @@
+form{
+    margin: 100px auto;
+    width: 20px;
+}
+
+
+fieldset{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 30px ;
+    background-color: aquamarine;
+    
+    
+
+}
+button{
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 7px;
+   background-color: blue;
+    color: black;
+}
+button:hover{
+   color: orangered;
+   cursor: pointer;
+}
+input{
+    padding: 4px;
+    border-radius:10px;
+
+}
+strong{
+    text-decoration: underline;
+    cursor: pointer;
+    color: crimson;
+}
+textarea{
+    border: 2px solid black;
+    box-shadow: 2px green;
+    border-radius: 10px 10px 10px 10px ;
+    background-color: aquamarine;
+}
